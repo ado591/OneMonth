@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+body{
+    background: url('../1-scene.jpg');
+    background-size: cover; /*позволяет делать картинку во весь экран*/
+}
+#container{
+    width: 420px;
+    height: 500px;
+    background: #F4F1DE;
+    padding: 5px 15px ;
+    font-family: 'Noto Serif', serif;
+    float: left;
+    margin: 2.0% 1.5%;
+    padding: 15px;
+    border-radius: 10px;
+}
+h2{
+    color: #3D405B;
+    background: rgb(222, 240, 252);
+    border-radius: 10px;
+}
+a{
+    color: #E07A5F;
+}
+
